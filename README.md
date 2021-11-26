@@ -13,6 +13,8 @@ and they had to be displayed using a special projector. Prokudin-Gorskii left Ru
 glass plate negatives survived and were purchased by the Library of Congress in 1948. Today, a 
 digitized version of the Prokudin-Gorskii collection is available online. 
 
+![](ex.png)
+
 ## 2- Overview: 
 The goal of this mini project is to learn to work with images in MATLAB by taking the digitized 
 Prokudin-Gorskii glass plate images and automatically producing a color image with as few 
